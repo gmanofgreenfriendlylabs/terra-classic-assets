@@ -1809,6 +1809,14 @@ module.exports = {
       name: "GarudaX Token",
       icon: "https://i.ibb.co/jkwPpnS/zz1.png",
     },
+    terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5: {
+      protocol: "greenfriendlylabs",
+      symbol: "GFT",
+      name: "Greenfriendly Token",
+      token: "terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5",
+      icon: "https://www.greenfriendlylabs.com/images/greenfriendlylabs.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
